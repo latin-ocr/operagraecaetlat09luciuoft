@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./operagraecaetlat09luciuoft_0645.png"; bbox 0 0 1768 3125; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 203 755 1351 909">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 203 755 1351 909">
+     <span class='ocr_line' id='line_1_1' title="bbox 203 755 1351 808; baseline -0.005 0"><span class='ocrx_word' id='word_1_1' title='bbox 203 760 314 808; x_wconf 69' lang='lat' dir='ltr'><strong>IQ</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 383 755 873 804; x_wconf 78' lang='lat' dir='ltr'><strong>MATTHIAE</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 945 755 1351 804; x_wconf 81' lang='lat' dir='ltr'>GESNERI</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 325 867 1223 909; baseline -0.003 0"><span class='ocrx_word' id='word_1_4' title='bbox 325 869 410 909; x_wconf 85' lang='lat' dir='ltr'><strong>DE</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 458 868 726 908; x_wconf 77' lang='lat' dir='ltr'><strong>AETATE</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 778 869 858 907; x_wconf 84' lang='lat' dir='ltr'><strong>ET</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 907 867 1223 907; x_wconf 76' lang='lat' dir='ltr'><strong>AUCTORE</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 245 973 1302 1032">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 245 973 1302 1032">
+     <span class='ocr_line' id='line_1_3' title="bbox 245 973 1302 1032; baseline -0.002 -1"><span class='ocrx_word' id='word_1_8' title='bbox 245 973 704 1031; x_wconf 75' lang='lat' dir='ltr'><strong>DIALOGI</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 782 973 1302 1032; x_wconf 63' lang='lat' dir='ltr'><strong>LUCEANEI</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 88 1095 1462 1362">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 88 1095 1462 1362">
+     <span class='ocr_line' id='line_1_4' title="bbox 88 1095 1462 1258; baseline 0.002 -4"><span class='ocrx_word' id='word_1_10' title='bbox 88 1095 1462 1258; x_wconf 49' lang='grc' dir='ltr'><strong>ΡΗῙΙΑΟΦΡΑΤΗῙρ)1</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 572 1320 1014 1362; baseline 0.002 -1"><span class='ocrx_word' id='word_1_11' title='bbox 572 1320 1014 1362; x_wconf 82' lang='lat' dir='ltr'>INSGRIBITUR</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 367 1426 1187 1485">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 367 1426 1187 1485">
+     <span class='ocr_line' id='line_1_6' title="bbox 367 1426 1187 1485; baseline -0.007 -3"><span class='ocrx_word' id='word_1_12' title='bbox 367 1426 1187 1485; x_wconf 81' lang='lat' dir='ltr'><strong>DISPUTATIO.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 94 1570 1465 1673">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 94 1570 1465 1673">
+     <span class='ocr_line' id='line_1_7' title="bbox 94 1570 1465 1620; baseline 0 -14"><span class='ocrx_word' id='word_1_13' title='bbox 94 1572 237 1620; x_wconf 80' lang='lat' dir='ltr'>(Habita</span> <span class='ocrx_word' id='word_1_14' title='bbox 270 1575 374 1605; x_wconf 78' lang='lat' dir='ltr'><strong><em>Jenae</em></strong></span> <span class='ocrx_word' id='word_1_15' title='bbox 395 1572 440 1603; x_wconf 79' lang='lat' dir='ltr'><strong>A.</strong></span> <span class='ocrx_word' id='word_1_16' title='bbox 467 1570 564 1602; x_wconf 77' lang='lat'>1714.</span> <span class='ocrx_word' id='word_1_17' title='bbox 601 1576 777 1602; x_wconf 71' lang='lat' dir='ltr'>retractata</span> <span class='ocrx_word' id='word_1_18' title='bbox 810 1577 842 1602; x_wconf 78' lang='lat' dir='ltr'><strong>et</strong></span> <span class='ocrx_word' id='word_1_19' title='bbox 880 1577 973 1601; x_wconf 78' lang='lat' dir='ltr'>aucta</span> <span class='ocrx_word' id='word_1_20' title='bbox 996 1572 1192 1612; x_wconf 81' lang='lat' dir='ltr'>publiceque</span> <span class='ocrx_word' id='word_1_21' title='bbox 1216 1572 1378 1613; x_wconf 73' lang='lat' dir='ltr'><strong>disputata</strong></span> <span class='ocrx_word' id='word_1_22' title='bbox 1401 1575 1465 1606; x_wconf 75' lang='lat' dir='ltr'><strong>Li-</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_8' title="bbox 189 1628 1355 1673; baseline -0.001 -11"><span class='ocrx_word' id='word_1_23' title='bbox 189 1631 287 1673; x_wconf 75' lang='lat' dir='ltr'><em>psiae</em></span> <span class='ocrx_word' id='word_1_24' title='bbox 312 1631 409 1661; x_wconf 79' lang='lat'><strong>1730.</strong></span> <span class='ocrx_word' id='word_1_25' title='bbox 434 1635 613 1660; x_wconf 74' lang='lat' dir='ltr'>retractata</span> <span class='ocrx_word' id='word_1_26' title='bbox 639 1628 760 1659; x_wconf 82' lang='lat' dir='ltr'>iterum</span> <span class='ocrx_word' id='word_1_27' title='bbox 790 1634 822 1659; x_wconf 74' lang='lat' dir='ltr'><strong>et</strong></span> <span class='ocrx_word' id='word_1_28' title='bbox 848 1628 1006 1667; x_wconf 69' lang='lat' dir='ltr'>castigata</span> <span class='ocrx_word' id='word_1_29' title='bbox 1033 1629 1216 1669; x_wconf 80' lang='lat' dir='ltr'><em>Gottingae</em></span> <span class='ocrx_word' id='word_1_30' title='bbox 1241 1631 1355 1671; x_wconf 66' lang='lat'>1741.)</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
